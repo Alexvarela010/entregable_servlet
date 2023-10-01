@@ -40,7 +40,7 @@
         </div>
 
         <!-- Submit button -->
-        <button type="submit" class="btn btn-primary btn-block mb-4">Create</button>
+        <button type="submit" class="btn btn-primary btn-block mb-4">Modify</button>
       </form>
     </div>
   </div>
